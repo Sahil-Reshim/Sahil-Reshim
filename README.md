@@ -1,12 +1,14 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 Currently working on AWS, Docker, and DevOps practices<br>
-💻 Developing real-world applications <br>
-⚙️ Gaining hands-on experience in deployment, automation, and cloud infrastructure<br>
-📈 Interested in backend engineering and scalable system design<br>
-🎯 Focused on building strong fundamentals for a career in Cloud & DevOps<br>
+<p align="justify">
+🔭 Currently working on AWS, Docker, and DevOps methodologies<br>
+💻 Developing real-world applications with a focus on backend systems<br>
+⚙️ Building hands-on expertise in deployment, automation, and cloud infrastructure<br>
+📈 Passionate about scalable system design and backend engineering<br>
+🎯 Dedicated to building industry-level expertise in Cloud & DevOps<br>
 📧 Reach me at: sahilreshim441@gmail.com
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sahil_reshim)
