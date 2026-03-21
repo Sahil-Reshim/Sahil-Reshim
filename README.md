@@ -8,14 +8,14 @@
 ---
 
 ## 💫 About Me:
-<div align="center">
-🔭 Working with AWS, Docker, and DevOps practices<br>
-💻 Building real-world applications with a focus on backend systems<br>
-⚙️ Hands-on experience in deployment, automation, and cloud infrastructure<br>
-📈 Strong interest in scalable system design and backend engineering<br>
-🎯 Focused on developing industry-level expertise in Cloud & DevOps<br>
+<p align="justify">
+🔭 Currently working on AWS, Docker, and DevOps methodologies<br>
+💻 Developing real-world applications with a focus on backend systems<br>
+⚙️ Building hands-on expertise in deployment, automation, and cloud infrastructure<br>
+📈 Passionate about scalable system design and backend engineering<br>
+🎯 Dedicated to building industry-level expertise in Cloud & DevOps<br>
 📧 Reach me at: sahilreshim441@gmail.com
-</div>
+</p>
 
 ---
 
