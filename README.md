@@ -64,13 +64,21 @@
 
 ---
 
+## 👀 Profile Views:
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Sahil-Reshim&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=Sahil-Reshim&icon=5&color=6)
+
+<br>
+
+<sub>Tracking profile engagement</sub>
 
 </div>
 
+---
+
 <div align="center">
+
 💻 “Building skills that actually run in production.”
 
 </div>
