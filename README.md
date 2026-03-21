@@ -70,11 +70,9 @@
 
 </div>
 
----
-
 <div align="center">
 
-✨ "Continuous learning is the key to success in tech!" ✨
+💻 “Building skills that actually run in production.”
 
 </div>
 
