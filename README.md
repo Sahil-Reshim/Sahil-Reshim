@@ -4,23 +4,25 @@
 
 ### 🚀 Cloud & DevOps Enthusiast from India  
 
+<img src="https://komarev.com/ghpvc/?username=Sahil-Reshim&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
 
 ---
 
 ## 💫 About Me:
 <p align="justify">
-🔭 Currently working on AWS, Docker, and DevOps methodologies<br>
-💻 Developing real-world applications with a focus on backend systems<br>
-⚙️ Building hands-on expertise in deployment, automation, and cloud infrastructure<br>
-📈 Passionate about scalable system design and backend engineering<br>
-🎯 Dedicated to building industry-level expertise in Cloud & DevOps<br>
-📧 Reach me at: sahilreshim441@gmail.com
+🔭 Working on AWS, Docker, Jenkins, and DevOps workflows<br>
+💻 Building real-world backend and cloud-based applications<br>
+⚙️ Focused on deployment, automation, and scalable systems<br>
+📈 Interested in system design and infrastructure engineering<br>
+🎯 Goal: Become an industry-ready Cloud & DevOps Engineer<br>
+📧 Email: <a href="mailto:sahilreshim441@gmail.com">sahilreshim441@gmail.com</a>
 </p>
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sahil_reshim)
@@ -40,13 +42,13 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-<br>
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-<br>
+
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
 
@@ -54,12 +56,23 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Insights:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Sahil-Reshim&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Sahil-Reshim&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Reshim&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sahil-Reshim&theme=tokyonight&hide_border=false&include_all_commits=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Reshim&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Reshim&theme=tokyonight&layout=compact&hide_border=false)
+
+</div>
+
+---
+
+## 📈 Activity Graph:
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Reshim&theme=tokyo-night)](https://github.com/Sahil-Reshim)
 
 </div>
 
@@ -67,8 +80,6 @@
 
 <div align="center">
 
-💻 “Building skills that actually run in production.”
+### 💻 “Building skills that actually run in production.”
 
 </div>
-
----
