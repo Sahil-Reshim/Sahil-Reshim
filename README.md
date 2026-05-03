@@ -34,23 +34,11 @@
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Languages & Tools:
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,github,git,jenkins,python,terraform,ansible,nginx,grafana" />
 
 </div>
 
@@ -64,6 +52,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Reshim&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Reshim&theme=tokyonight&layout=compact&hide_border=false)
+
+</div>
+
+---
+
+## 🏆 Achievements:
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sahil-Reshim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
