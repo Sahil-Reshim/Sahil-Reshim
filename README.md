@@ -1,28 +1,45 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there...+👋;I'm+Sahil+Reshim" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Sahil%20Reshim&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Automation%20Engineer&descAlignY=58&descSize=20"/>
 
-### 🚀 Cloud & DevOps Enthusiast from India  
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Sahil-Reshim&label=Profile%20Views&color=0e75b6&style=flat" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+there...+👋;I'm+Sahil+Reshim;Cloud+%26+DevOps+Enthusiast;Building+Projects+That+Actually+Run;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-Kubernetes%20%7C%20Prometheus%20%7C%20Grafana-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Building-DeployX-success?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sahil-Reshim&label=Profile%20Views&color=00f7ff&style=flat-square" />
 
 </div>
 
 ---
 
-## 💫 About Me:
+## 💫 About Me
+
 <p align="justify">
-🔭 Working on AWS, Docker, Jenkins, and DevOps workflows<br>
-💻 Building real-world backend and cloud-based applications<br>
-⚙️ Focused on deployment, automation, and scalable systems<br>
-📈 Interested in system design and infrastructure engineering<br>
-🎯 Goal: Become an industry-ready Cloud & DevOps Engineer<br>
+
+🔭 Currently working on <b>DeployX – Smart DevOps Deployment Platform</b><br>
+☁️ Learning and building with <b>AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus & Grafana</b><br>
+⚙️ Focused on <b>CI/CD, automation, containerization, monitoring, and scalable systems</b><br>
+💻 Building real-world backend and cloud-based applications using <b>Python, Flask, MySQL, Linux and GitHub</b><br>
+📈 Interested in <b>System Design, Infrastructure Engineering and DevOps Automation</b><br>
+🎯 Goal: Become an industry-ready <b>Cloud & DevOps Engineer</b><br>
 📧 Email: <a href="mailto:sahilreshim441@gmail.com">sahilreshim441@gmail.com</a>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me
+
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sahil_reshim)
@@ -34,42 +51,91 @@
 
 ---
 
-## 🛠️ Languages & Tools:
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,github,git,jenkins,python,terraform,ansible,nginx,grafana" />
+### ☁️ Cloud & DevOps  
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,nginx,grafana,prometheus" />
+
+<br><br>
+
+### 💻 Programming & Backend  
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,js,react" />
+
+<br><br>
+
+### ⚙️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell" />
 
 </div>
 
 ---
 
-## 🏆 Achievements:
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔹 DeployX  
+Smart DevOps Deployment Platform  
+
+A mini SaaS-style platform where users can enter a GitHub repository URL and deploy applications using Docker, Flask APIs, CI/CD concepts, and deployment logs.
+
+<b>Tech:</b> React, Flask, Docker, Jenkins, SQLite, GitHub
+
+</td>
+
+<td width="50%">
+
+### 🔹 Flask + MySQL Kubernetes Project  
+Production-style full-stack app deployed on Kubernetes.
+
+Includes Deployments, Services, ConfigMaps, Secrets, PVC, Namespace, and DockerHub image deployment.
+
+<b>Tech:</b> Flask, MySQL, Docker, Kubernetes, Minikube
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sahil-Reshim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sahil-Reshim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
 ---
 
-## 📊 GitHub Insights:
+## 📊 GitHub Insights
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Sahil-Reshim&theme=tokyonight&hide_border=false&include_all_commits=false)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Reshim&theme=tokyonight&hide_border=true&show_icons=true" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Reshim&theme=tokyonight&hide_border=false)
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Reshim&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Reshim&theme=tokyonight&layout=compact&hide_border=false)
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Reshim&theme=tokyonight&layout=compact&hide_border=true" />
 
 </div>
 
 
-## 📈 Activity Graph:
+---
+
+## 📈 Activity Graph
+
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Reshim&theme=tokyo-night)](https://github.com/Sahil-Reshim)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Reshim&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -77,6 +143,8 @@
 
 <div align="center">
 
-### 💻 “Building skills that actually run in production.”
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+skills+that+actually+run+in+production.;Learning+DevOps+by+building+real+projects.;Cloud+%7C+Automation+%7C+Containers+%7C+CI%2FCD" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
