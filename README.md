@@ -118,13 +118,7 @@ Includes Deployments, Services, ConfigMaps, Secrets, PVC, Namespace, and DockerH
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Reshim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-
 <img width="49%" src="https://streak-stats.demolab.com?user=Sahil-Reshim&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Reshim&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
