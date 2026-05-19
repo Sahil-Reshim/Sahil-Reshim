@@ -18,6 +18,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=Sahil-Reshim&label=Profile%20Views&color=00f7ff&style=flat-square" />
 
+<img src="https://img.shields.io/badge/AWS-Cloud%20Engineer-orange?style=flat-square&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/DevOps-CI%2FCD-blueviolet?style=flat-square&logo=githubactions&logoColor=white" />
+
 </div>
 
 ---
